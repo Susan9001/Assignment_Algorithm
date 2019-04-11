@@ -1,0 +1,6 @@
+/*if (5 * (n / 5) < n)
+	{
+		sort(arr + start + 5 * (n / 5), arr + start + n);
+		int midPos = ((start + 5 * (n / 5)) + (start + n - 1)) / 2;
+		swap(arr[start + i], arr[midPos]);
+	}*/
